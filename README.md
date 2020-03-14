@@ -1,2 +1,7 @@
-# Note-
-Note   java -->>   SharedPreferences -- create menu  -- Intent 
+# Note
+
+# What I Learn 
+
+* SharedPreferences
+* create menu
+* Intent 
