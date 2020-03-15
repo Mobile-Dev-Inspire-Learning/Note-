@@ -7,6 +7,15 @@
 * Intent 
 
 
+
+### Description
+
+note app to create notes for using later 
+to create new note click on 3 dots and select **add a new note**
+for delete note hold on the note that you wont to delete it 
+**yes** --- to delete note   **no** --- to cancel 
+
+
 ![Image description](https://i.ibb.co/vQ5CQyw/04bbdcf8-3323-4918-b3b7-13ae2b0a305b.png)
 
 
